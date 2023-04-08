@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello my friend!
 SUPER TASK
+=======
+Hello my friend!
+>>>>>>> parent of 6531a28 (Task1)
